@@ -5,7 +5,7 @@ body{
 .azul{
     background-color: rgb(105, 203, 255);
     padding: 100px;
-    margin: 300px;
+    display: flex;
 }
 
 .amarelo{
@@ -22,5 +22,10 @@ body{
     display: flex;
 
 }
-div{
+
+.inv{
+    width: 930px;
+}
+.alongado{
+    height: 253px;
 }
