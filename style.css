@@ -1,39 +1,49 @@
-body{
-    background-color: blanchedalmond;
+corpo{
+cor de fundo:amêndoa escaldada;
 }
 
 .azul{
-    background-color: rgb(105, 203, 255);
-    padding: 100px;
-    display: flex;
-}
-
-.amarelo{
-    background-color: rgb(255, 220, 105);
-    padding: 100px;
-    margin: 20px;
-}
-
-.extender{
-    background-color: rgb(255, 220, 105) ;
-    padding-right: 350px;
-}
-.flex{
-    display: flex;
-
+cor de fundo: #69cbff;
+preenchimento: 400px;
+largura: 430px;
 }
 
 .inv{
-    width: 930px;
-}
-.alongado{
-    height: 253px;
+largura: 720px;
 }
 
-.quadrado{
-    height: 100px;
+.amarelo{
+cor de fundo: #ffc400;
+preenchimento: 100px;
+margem: 20px;
 }
+.amarelo2{
+cor de fundo: #ffc400;
+preenchimento: 200px;
+margem: 20px;
+}
+.extensor{
+cor de fundo: RGB(255, 196, 0) ;
+preenchimento direito: 540px;
+}
+.flexível{
+mostrar:flexível;
 
+}
+.ramal{
+
+preenchimento inferior: 290px;
+
+}
+divisão{
+}
 .longo{
-    height: 100px;;
+preenchimento inferior: 200px;
+}
+.dar{
+preenchimento direito: 300px;
+}
+
+.dar muito{
+preenchimento direito: 570px;
 }
